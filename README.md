@@ -42,12 +42,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Tailwind 
--Javascript 
+- Javascript 
 
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to 
+### What I learned 
 
 -While working on this, I learnt how to use Javascript to include a dropdown menu functionality 
 
@@ -63,7 +61,6 @@ Frontend Mentor.
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@KennedyOhia](https://www.twitter.com/KennedyOhia)
 
 
